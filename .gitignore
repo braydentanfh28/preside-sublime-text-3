@@ -4,4 +4,4 @@
 *test*
 preside/*
 !preside/box.json
-!preside/build.py
+!preside/*.py
